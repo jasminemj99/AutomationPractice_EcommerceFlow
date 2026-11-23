@@ -3,11 +3,13 @@
 This repository showcases a comprehensive, end-to-end QA Audit independently executed on the OpenCart E-Commerce platform. The project spans the entire Software Testing Life Cycle (STLC), including strategic test planning, manual execution, API validation, database integrity checks, and building a scalable UI Automation framework from scratch.
 
 # Technologies Used
-# Automation: Java, Selenium WebDriver, Cucumber BDD, TestNG, Maven, Page Object Model (POM)
-# API Testing: Postman
-# Database Testing: MySQL / SQL Server
-# Project Management & Tracking: Jira, MS Excel
-# Version Control: Git & GitHub
+Automation: Java, Selenium WebDriver, Cucumber BDD, TestNG, Maven, Page Object Model (POM)
+API Testing: Postman
+Database Testing: MySQL / SQL Server
+Project Management & Tracking: Jira, MS Excel
+Version Control: Git & GitHub
+
+# - - -
 
 # Testing Phases & Artifacts
 # 1. Test Planning & Strategy
