@@ -4,7 +4,7 @@ This repository showcases a comprehensive, end-to-end QA Audit independently exe
 
 # Technologies Used
 # Automation: Java, Selenium WebDriver, Cucumber BDD, TestNG, Maven, Page Object Model (POM)
-API Testing: Postman
+# API Testing: Postman
 # Database Testing: MySQL / SQL Server
 # Project Management & Tracking: Jira, MS Excel
 # Version Control: Git & GitHub
