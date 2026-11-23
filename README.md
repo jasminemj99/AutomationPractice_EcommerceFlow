@@ -39,7 +39,7 @@ Full End-to-End Checkout Workflow
 
 # Key Achievements
 Independently designed and executed the entire QA lifecycle for a complex E-Commerce platform.
-Developed and optimized 40+ automated test scripts with clean, maintainable code.
+Developed and optimized test scripts with clean, maintainable code.
 Uncovered critical functional and backend bugs through parallel manual and SQL database checks.
 Structured a modular GitHub repository layout dividing Manual, API, DB, and Automation phases seamlessly.
 
