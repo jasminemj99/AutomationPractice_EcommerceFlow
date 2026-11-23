@@ -8,8 +8,8 @@ This repository showcases a comprehensive, end-to-end QA Audit independently exe
 # Database Testing: MySQL / SQL Server
 # Project Management & Tracking: Jira, MS Excel
 # Version Control: Git & GitHub
-# Testing Phases & Artifacts
 
+# Testing Phases & Artifacts
 # 1. Test Planning & Strategy
 Designed a thorough Test Plan defining the scope, environment configuration, test entry/exit criteria, and risk assessment for the E-Commerce platform.
 Developed comprehensive Test Scenarios and Test Cases covering core user journeys (Auth, Cart, Checkout, Account Management).
