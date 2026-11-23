@@ -12,23 +12,23 @@ This repository showcases a comprehensive, end-to-end QA Audit independently exe
 # - - -
 
 # Testing Phases & Artifacts
-# 1. Test Planning & Strategy
+### 1. Test Planning & Strategy
 Designed a thorough Test Plan defining the scope, environment configuration, test entry/exit criteria, and risk assessment for the E-Commerce platform.
 Developed comprehensive Test Scenarios and Test Cases covering core user journeys (Auth, Cart, Checkout, Account Management).
-# 2. Manual Testing & Defect Management
+### 2. Manual Testing & Defect Management
 Functional Testing: Executed manual test runs for critical paths like product searching, filtering, and multi-shipping checkout workflows.
 Regression & Smoke Testing: Performed structured validation after changes to ensure core stability.
 Defect Tracking: Logged and tracked critical bugs (e.g., business logic flaws, edge cases) with detailed steps to reproduce, expected vs. actual results, and severity mapping.
-# 3. API Testing (Postman)
+### 3. API Testing (Postman)
 Validated core REST API endpoints ensuring accurate HTTP status codes, response times, and payload structures.
 Handled CRUD operations using GET, POST, PUT, and DELETE requests along with authentication token validation.
-# 4. Database Testing (SQL)
+### 4. Database Testing (SQL)
 Performed backend data validation to ensure strict data integrity.
 Executed advanced SQL queries to verify user account creation records, inventory deductions post-checkout, and order state transitions in the database.
-# 5. UI Automation Framework
+### 5. UI Automation Framework
 Built a robust, scalable Behavior-Driven Development (BDD) framework using Selenium WebDriver with Java and Cucumber.
 Implemented the Page Object Model (POM) to enhance code reusability and maintainability.
-# Key Framework Features: Integrated global hooks, customized test runners, precise assertions, and automated failure screenshot capturing.
+### Key Framework Features: Integrated global hooks, customized test runners, precise assertions, and automated failure screenshot capturing.
 
 # Automated Scenarios Covered
 Complete User Registration & Field Validation
