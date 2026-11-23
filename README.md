@@ -30,6 +30,8 @@ Built a robust, scalable Behavior-Driven Development (BDD) framework using Selen
 Implemented the Page Object Model (POM) to enhance code reusability and maintainability.
 ### Key Framework Features: Integrated global hooks, customized test runners, precise assertions, and automated failure screenshot capturing.
 
+# - - -
+
 # Automated Scenarios Covered
 Complete User Registration & Field Validation
 User Login / Logout (Positive & Negative flows)
